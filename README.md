@@ -15,8 +15,9 @@ Connect with me:
 samra-asif-01a7ab136
 
 
-
 Languages and Tools:
-android bootstrap css3 dart firebase flutter html5 java javascript mssql mysql python
+android bootstrap css3
+dart firebase
+flutter
+python
 
-Watch my contribution graph eaten by the snake🐍
