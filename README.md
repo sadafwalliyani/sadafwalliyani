@@ -11,12 +11,8 @@ You can click the Preview link to take a look at your changes.
 👨‍💻 I’m currently working on mobile development technologies like flutter etc.
 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-Connect with me:
-samra-asif-01a7ab136
-
 
 Languages and Tools:
-android bootstrap css3
 dart firebase
 flutter
 python
