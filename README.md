@@ -19,3 +19,5 @@ You can click the Preview link to take a look at your changes.
 ✔️python
 
 🙏Thank you for taking the time to read my profile!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sadafwalliyani)](https://git.io/streak-stats)
