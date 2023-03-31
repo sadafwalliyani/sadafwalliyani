@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 🔥 Streak Stats
 
 
-(https://streak-stats.demolab.com/?user=sadafwalliyani)](https://git.io/streak-stats)
+[![Sadaf's GitHub stats](https://streak-stats.demolab.com/?user=sadafwalliyani)](https://git.io/streak-stats)
 
 
 
