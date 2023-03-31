@@ -23,14 +23,14 @@ You can click the Preview link to take a look at your changes.
 🔥 Streak Stats
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sadafwalliyani)](https://git.io/streak-stats)
+(https://streak-stats.demolab.com/?user=sadafwalliyani)](https://git.io/streak-stats)
 
 
 
 📊 Github Stats and Activity
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafwalliyani&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=sadafwalliyani&show_icons=true)
 
 
-holopin.io/@sadafwalliyani
+
