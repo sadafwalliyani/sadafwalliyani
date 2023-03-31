@@ -30,13 +30,13 @@ You can click the Preview link to take a look at your changes.
 📊 Github Stats and Activity
 
 
+
 [![Sadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafwalliyani&show_icons=true)
+
 
 
 👩‍💻 Most Used Languages
 
-
-💻 GitHub Profile Stats
 
 
 ![sadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafwalliyani&hide=contribs,prs)
