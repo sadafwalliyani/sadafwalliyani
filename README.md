@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
 ✔️dart
 ✔️flutter
 ✔️python
+✔️HTML
+✔️CSS
+✔️JAVA
 
 🙏Thank you for taking the time to read my profile!
 
