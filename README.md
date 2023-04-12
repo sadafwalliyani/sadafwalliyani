@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋 Hello, my name is Sadaf Walliyani ;Second+line+of+text)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=030A0D&width=435&lines=%F0%9F%91%8B+Hello%2C+my+name+is+Sadaf+Walliyani+)](https://git.io/typing-svg)
 - 👀 I'm a technology enthusiast with a keen interest in mobile development and AI.
 - 🌱 I'm particularly interested in technologies like Flutter and Python for mobile development, as well as machine learning and natural language processing for AI.
 - 👩‍💻 I'm currently learning both Flutter and Python, and I'm excited to expand my knowledge and expertise in these areas. I'm also exploring AI and its applications in various fields, including mobile development.
