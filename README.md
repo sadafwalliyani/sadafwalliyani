@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=030A0D&width=435&lines=%F0%9F%91%8B+Hello%2C+My+name+is+Sadaf+Walliyani+)](https://git.io/typing-svg)
+
 👋 Greetings! I'm an avid technology enthusiast with a particular focus on AI and the captivating world it unfolds.
 
 🌱 Delving into technologies like Python has been my recent journey. Concurrently, I'm engrossed in the realms of machine learning and natural language processing, driven by a genuine curiosity about AI's potential.
