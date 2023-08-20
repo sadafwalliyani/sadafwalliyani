@@ -8,9 +8,8 @@
 
 🤝 Collaborative projects are my cup of tea, and platforms like Fiverr and Upwork have my attention for exciting partnerships.
 
-📬 I'm all ears for stimulating discussions and prospects related to AI and beyond. Don't hesitate to reach out to me on LinkedIn at [LinkedIn Profile URL]. Let's explore the world of possibilities together!
+📬 I'm all ears for stimulating discussions and prospects related to AI and beyond. Don't hesitate to reach out to me on LinkedIn at [[LinkedIn Profile URL]](https://www.linkedin.com/in/sadaf-walliyani-09122b5a/). Let's explore the world of possibilities together!
 
-https://www.linkedin.com/in/sadaf-walliyani-09122b5a/
 
 <!---
 sadafwalliyani/sadafwalliyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
