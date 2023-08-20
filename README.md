@@ -15,14 +15,15 @@
 sadafwalliyani/sadafwalliyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👨‍💻 Currently, I'm focused on working with mobile development technologies, including Flutter, as well as exploring AI through self-study and online courses. 
-📚 I’m currently learning everything about Frontend and Backend technologies 😅
-💪🏼 My future goal is to keep up with new technologies in both mobile development and AI, and never stop creating new and innovative ideas.
+👨‍💻 Currently, I'm focused on working with pre-trained Hugging Face models, including Fine-tuning, as well as exploring AI through self-study and online courses. 
+📚 I’m currently learning everything about AI prompt engineering and API integrations😅
+💪🏼 My future goal is to keep up with new technologies in both Machine learning and Deep learning, and never stop creating new and innovative ideas.
 
 👉Here are some of the languages and tools I'm currently proficient in:
-✔️dart
-✔️flutter
+✔️Hugging Face
+✔️Open AI APIs
 ✔️python
+✔️LLMA
 ✔️HTML
 ✔️CSS
 ✔️JAVA
