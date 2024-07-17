@@ -2,53 +2,38 @@
 
 👋 Greetings! I'm an avid technology enthusiast with a particular focus on AI and the captivating world it unfolds.
 
-🌱 Delving into technologies like Python has been my recent journey. Concurrently, I'm engrossed in the realms of machine learning and natural language processing, driven by a genuine curiosity about AI's potential.
+🌱 Delving into technologies like Python has been my recent journey. Concurrently, I'm engrossed in the realms of machine learning, deep learning, and generative AI, driven by a genuine curiosity about AI's potential.
 
 🤖 Prompt engineering and the intriguing LLMA2 voice chatbot are also areas I'm actively exploring.
 
 🤝 Collaborative projects are my cup of tea, and platforms like Fiverr and Upwork have my attention for exciting partnerships.
 
-📬 I'm all ears for stimulating discussions and prospects related to AI and beyond. Don't hesitate to reach out to me on LinkedIn at 👉 https://www.linkedin.com/in/sadaf-walliyani-09122b5a/ and on HuggingFace https://huggingface.co/spaces/sadafwalliyani/huggingface_spaces Let's explore the world of possibilities together!
+📬 I'm all ears for stimulating discussions and prospects related to AI and beyond. Don't hesitate to reach out to me on LinkedIn at 👉 [LinkedIn](https://www.linkedin.com/in/sadaf-walliyani-09122b5a/) and on HuggingFace [HuggingFace](https://huggingface.co/spaces/sadafwalliyani/huggingface_spaces). Let's explore the world of possibilities together!
 
+👨‍💻 Currently, I'm focused on working with pre-trained Hugging Face models, including Fine-tuning, as well as exploring AI through self-study and online courses.
 
-<!---
-sadafwalliyani/sadafwalliyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-👨‍💻 Currently, I'm focused on working with pre-trained Hugging Face models, including Fine-tuning, as well as exploring AI through self-study and online courses. 
-📚 I’m currently learning everything about AI prompt engineering and API integrations😅
+📚 I’m currently learning everything about AI prompt engineering and API integrations 😅
+
 💪🏼 My future goal is to keep up with new technologies in both Machine learning and Deep learning, and never stop creating new and innovative ideas.
 
-👉Here are some of the languages and tools I'm currently proficient in:
-✔️Hugging Face
-✔️Open AI APIs
-✔️python
-✔️LLMA
-✔️HTML
-✔️CSS
-✔️JAVA
+👉 Here are some of the languages and tools I'm currently proficient in:
+✔️ Hugging Face
+✔️ Open AI APIs
+✔️ Python
+✔️ LLMA
+✔️ HTML
+✔️ CSS
+✔️ JAVA
 
-🙏Thank you for taking the time to read my profile!
+🙏 Thank you for taking the time to read my profile!
 
 🔥 Streak Stats
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadafwalliyani)](https://git.io/streak-stats)
-
-
 
 📊 Github Stats and Activity
 
-
-
-
 ![Sadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafwalliyani&show_icons=true)
-
-
-
-
-
-
 
 ### Languages and Tools:
 
@@ -63,7 +48,4 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadafwalliyani&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
-
