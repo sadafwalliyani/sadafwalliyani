@@ -20,8 +20,6 @@
 
 📚 I am actively learning the nuances of AI prompt engineering and the intricacies of #geniAPI integrations 😅, with a specific interest in mastering #astAPI for seamless application development.👨‍💻 Currently, my focus involves hands-on experience with pre-trained Hugging Face models, including fine-tuning strategies. I am also dedicated to expanding my AI knowledge through self-study and comprehensive online courses.
 
-📚 I am actively learning the nuances of AI prompt engineering and the intricacies of #geniAPI integrations 😅, with a specific interest in mastering #astAPI for seamless application development.
-
 💪🏼 My ongoing goal is to remain at the forefront of emerging technologies in both Machine Learning and Deep Learning, continuously fostering new and innovative ideas.
 
 👉 Here's a glimpse into my current proficiencies:
