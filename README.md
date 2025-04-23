@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=030A0D&width=435&lines=%F0%9F%91%8B+Hello%2C+My+name+is+Sadaf+Walliyani+)](https://git.io/typing-svg)
 
-👋 Greetings! I'm an avid technology enthusiast with a particular focus on AI and the captivating world it unfolds.
+👋 Salutations! I'm Sadaf Walliyani, a tech enthusiast deeply fascinated by the transformative power of Artificial Intelligence and its ever-evolving landscape.
+
+🌱 My recent explorations have led me to delve into the intricacies of Python programming. Simultaneously, I am engrossed in the exciting domains of machine learning, deep learning, and #genAI, driven by a genuine curiosity to unravel the vast potential of AI.
+
+🤖 I am actively experimenting with #promptengineering techniques and the intriguing capabilities of the LLM family, including LLMA2 for voice chatbots. Furthermore, I am gaining practical experience in building and deploying #AIAgents.
+
+🤝 I thrive in collaborative environments and am keen on leveraging platforms like Fiverr and Upwork for engaging partnerships in innovative projects.
 
 🌱 Delving into technologies like Python has been my recent journey. Concurrently, I'm engrossed in the realms of machine learning, deep learning, and generative AI, driven by a genuine curiosity about AI's potential.
 
@@ -10,22 +16,28 @@
 
 📬 I'm all ears for stimulating discussions and prospects related to AI and beyond. Don't hesitate to reach out to me on LinkedIn at 👉 [LinkedIn](https://www.linkedin.com/in/sadaf-walliyani-09122b5a/) and on HuggingFace [HuggingFace](https://huggingface.co/spaces/sadafwalliyani/huggingface_spaces). Let's explore the world of possibilities together!
 
-👨‍💻 Currently, I'm focused on working with pre-trained Hugging Face models, including Fine-tuning, as well as exploring AI through self-study and online courses.
+👨‍💻 Currently, my focus involves hands-on experience with pre-trained Hugging Face models, including fine-tuning strategies. I am also dedicated to expanding my AI knowledge through self-study and comprehensive online courses.
 
-📚 I’m currently learning everything about AI prompt engineering and API integrations 😅
+📚 I am actively learning the nuances of AI prompt engineering and the intricacies of #geniAPI integrations 😅, with a specific interest in mastering #astAPI for seamless application development.👨‍💻 Currently, my focus involves hands-on experience with pre-trained Hugging Face models, including fine-tuning strategies. I am also dedicated to expanding my AI knowledge through self-study and comprehensive online courses.
 
-💪🏼 My future goal is to keep up with new technologies in both Machine learning and Deep learning, and never stop creating new and innovative ideas.
+📚 I am actively learning the nuances of AI prompt engineering and the intricacies of #geniAPI integrations 😅, with a specific interest in mastering #astAPI for seamless application development.
 
-👉 Here are some of the languages and tools I'm currently proficient in:
-✔️ Hugging Face
-✔️ Open AI APIs
+💪🏼 My ongoing goal is to remain at the forefront of emerging technologies in both Machine Learning and Deep Learning, continuously fostering new and innovative ideas.
+
+👉 Here's a glimpse into my current proficiencies:
+
+✔️ Hugging Face Ecosystem
+✔️ OpenAI APIs
 ✔️ Python
-✔️ LLMA
+✔️ LLM Family (including LLMA)
 ✔️ HTML
 ✔️ CSS
-✔️ JAVA
+✔️ Java
+✔️ FastAPI
+✔️ AIAgents Development
 
-🙏 Thank you for taking the time to read my profile!
+🙏 Thank you for taking the time to review my profile!
+
 
 🔥 Streak Stats
 
